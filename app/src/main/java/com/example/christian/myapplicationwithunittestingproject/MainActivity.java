@@ -14,11 +14,12 @@ public class MainActivity extends AppCompatActivity {
         doSomething();
     }
 
+    // What is that ;->
     private void doSomething() {
-
+        
         Vector v = new Vector();
         v.add("Hello");
-
+        
         if (v.contains("Hello")) {
 
         } else {
