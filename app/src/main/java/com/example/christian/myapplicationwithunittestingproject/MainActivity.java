@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         doSomething();
     }
 
-    // What is that ;->
+    // What the hack is that ;->
     private void doSomething() {
         
         Vector v = new Vector();
